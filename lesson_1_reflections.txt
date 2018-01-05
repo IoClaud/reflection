@@ -21,5 +21,3 @@ A: If I have the security of having the modified code always saved and ready to 
 
 Q: Now that you have your workspace set up, what do you want to try using Git for?
 A: I used git to keep track of the changes made to this file during this course and I will use it even more for the realization of my personal projects as a programmer.
-
-ok, let's dance!!
