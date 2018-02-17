@@ -6,3 +6,16 @@ A: The staging area is an intermediate area where I can add changes before
     committing them to the repository.  This allows me to add changes to the
     staging area one-by-one, then commit them all at once, which makes it easier
     to specify what changes should go into each commit.
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: by typing "git diff" you get the changes you've made to the staging area.
+	by typing "git diff --staged" you see the changes between the master and the staging area
+	by using "git add <file>" you can specify which files to add to your commit, allowing you to only add files that are part of the logical change to the next commit
+	by typing "git reset <file>" you can pull a file from the staging area in case it is not part of the logical change.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: They sounds good when I have to testing new version of code but I'm not sure on the result, or they also be very usefull when I've need to collaborate with other programmer, to can everyone create a himself version.
+Or what about if I have need to A/B test? with branche i can testing more exclusive version of the seem project.
+
+Q: How do the diagrams help you visualize the branch structure?
+A: It's like having a route map and not having it. If I have a route map, it's easier for me to understand where I am and how I got here. In the same way, with the commit diagrams it is easier to see which points have modified the code, which ones can be shot, which ones have to be cut.
