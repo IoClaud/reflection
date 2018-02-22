@@ -5,16 +5,16 @@ Using a remote repository is also useful for sharing your work with ourselves, i
 
 Q: Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
-A:
+A:>>>>If I need to use only a part of the changes, perhaps to leave the time to others to complete the work, I can extract only a part of the changes.
 
 Q: Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-A: 
+A:
 
 Q: What is the benefit of having a copy of the last known state of the remote
 stored locally?
 A:
-    
+
 Q: How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 A:
@@ -22,4 +22,3 @@ A:
 Q: When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 A:
-    
