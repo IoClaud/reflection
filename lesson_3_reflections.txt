@@ -1,0 +1,4 @@
+Q: When would you want to use a remote repository rather than keeping all your work
+local?
+A: Remote repositories are very useful when you want to share your work, whether this is due to the need to collaborate with someone or to share a piece of your own life of programming, useful even to ask for an opinion.
+Using a remote repository is also useful for sharing your work with ourselves, in case you need to work from multiple computers on the same job.
