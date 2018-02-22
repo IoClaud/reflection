@@ -1,5 +1,5 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
-A: Git create a new directory in qhich where it will keep track of all the versions that I save, which means that you can start tracking files and changes to those files.
+A: Git create a new directory in which where it will keep track of all the versions that I save, which means that you can start tracking files and changes to those files.
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: The staging area is an intermediate area where I can add changes before
