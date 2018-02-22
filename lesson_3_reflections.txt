@@ -9,7 +9,9 @@ A:If I need to use only a part of the changes, perhaps to leave the time to othe
 
 Q: Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-A:
+A: To ramify means to create a new road on which to create new tests, useful to keep the reference to a previous version recognized as working.
+Clone means to copy the entire repository on your workstation to have all the files to work on.
+To fork means to create a copy of the files on one's own GitHub workstation and is useful for working on files and making them public while waiting for the project owner to join them to the parent project.
 
 Q: What is the benefit of having a copy of the last known state of the remote
 stored locally?
